@@ -1,0 +1,11 @@
+{
+  "title": "Lesson 1",
+  "text": "Let's begin"
+  "prompts": [
+    {"title": "Hello World!", "prompt": "How are you today?" },
+    {"title": "Tell me a joke", "prompt": "Tell me a joke about unicorns" }
+  ],
+  "course_links": [
+    {"title": "Lesson 2"}
+  ]
+}
