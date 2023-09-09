@@ -1,14 +1,14 @@
 {
    "title":"Learning ChatGPT part 2",
    "text":"Let's begin",
-   "video_url":"https://www.youtube.com/embed/MCn5kQGNNjc?si=J9lY58c-jLBG8Rjw",
+   "video_url":"https://www.youtube.com/embed/rI7kclwvPtI?si=EgYD0Xrh5XpvNaSc",
    "prompts":[
       {
-         "title":"Hello World!",
+         "title":"Summarize",
          "prompt":"How are you today?"
       },
       {
-         "title":"Tell me a joke",
+         "title":"Bullet points",
          "prompt":"Tell me a joke about unicorns"
       }
    ],
