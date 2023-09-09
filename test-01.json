@@ -1,26 +1,21 @@
 {
-   "title":"Learning ChatGPT",
-   "sections":[
+   "title":"Learning ChatGPT part 1",
+   "text":"Let's begin",
+   "video_url":"https://www.youtube.com/embed/MCn5kQGNNjc?si=J9lY58c-jLBG8Rjw",
+   "prompts":[
       {
-         "title":"Lesson 1",
-         "text":"Let's begin",
-         "video_url":"https://www.youtube.com/embed/MCn5kQGNNjc?si=J9lY58c-jLBG8Rjw",
-         "prompts":[
-            {
-               "title":"Hello World!",
-               "prompt":"How are you today?"
-            },
-            {
-               "title":"Tell me a joke",
-               "prompt":"Tell me a joke about unicorns"
-            }
-         ],
-         "course_links":[
-            {
-               "title": "Lesson 2",
-               "github_url": "https://raw.githubusercontent.com/AndrewMayneProjects/Sidebar-alpha/main/test-02.json"
-            }
-         ]
+         "title":"Hello World!",
+         "prompt":"How are you today?"
+      },
+      {
+         "title":"Tell me a joke",
+         "prompt":"Tell me a joke about unicorns"
+      }
+   ],
+   "course_links":[
+      {
+         "title":"Lesson 3",
+         "github_url":"https://raw.githubusercontent.com/AndrewMayneProjects/Sidebar-alpha/main/test-02.json"
       }
    ]
 }
