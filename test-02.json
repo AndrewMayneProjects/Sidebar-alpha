@@ -14,7 +14,11 @@
    ],
    "course_links":[
       {
-         "title":"Lesson 3",
+         "title":"Learn about hallucination",
+         "github_url":"https://raw.githubusercontent.com/AndrewMayneProjects/Sidebar-alpha/main/test-01.json"
+      },
+          {
+         "title":"How do summarize",
          "github_url":"https://raw.githubusercontent.com/AndrewMayneProjects/Sidebar-alpha/main/test-01.json"
       }
    ]
