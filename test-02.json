@@ -4,12 +4,8 @@
    "video_url":"https://customer-nwn2p2wxvyjt48a4.cloudflarestream.com/63626f2a24d555da28b317fc0047aa8b/iframe?poster=https%3A%2F%2Fcustomer-nwn2p2wxvyjt48a4.cloudflarestream.com%2F63626f2a24d555da28b317fc0047aa8b%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600",
    "prompts":[
     {
-         "title":"Personalized example",
-         "prompt":"My name is Andrew. I need three short, matter-of-fact reasons why people should learn prompting."
-      },
-      {
-         "title":"Bullet points",
-         "prompt":"Tell me a joke about unicorns"
+         "title":"Write an email",
+         "prompt":"Write 3 reasons why people should learn prompting."
       }
    ],
    "course_links":[
