@@ -1,6 +1,6 @@
 {
-   "title":"Learning ChatGPT part 1",
-   "text":"Let's begin",
+   "title":"Learning ChatGPT Part 1: The Interface",
+   "text":"Let's begin with a tour of the interface.",
    "video_url":"https://customer-nwn2p2wxvyjt48a4.cloudflarestream.com/f3905736d05f48423528e2fccfd1ef4b/iframe?poster=https%3A%2F%2Fcustomer-nwn2p2wxvyjt48a4.cloudflarestream.com%2Ff3905736d05f48423528e2fccfd1ef4b%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600",
    "prompts":[
       {
@@ -8,7 +8,7 @@
          "prompt":"How are you today?"
       },
       {
-         "title":"Tell me a joke",
+         "title":"Ask for a unicorn joke",
          "prompt":"Tell me a joke about unicorns"
       }
    ],
