@@ -1,0 +1,21 @@
+{
+   "title":"Lesson 3: Personalizing prompts",
+   "text":"You can give ChatGPT intructions to help it give you better answers.",
+   "video_url":"https://www.youtube.com/embed/rI7kclwvPtI?si=EgYD0Xrh5XpvNaSc",
+   "prompts":[
+      {
+         "title":"Personalized example",
+         "prompt":"My name is Andrew. I need three short, matter-of-fact reasons why people should learn prompting."
+      }
+   ],
+   "course_links":[
+      {
+         "title":"Explore creative prompts",
+         "github_url":"https://raw.githubusercontent.com/AndrewMayneProjects/Sidebar-alpha/main/test-03.json"
+      },
+          {
+         "title":"How to write reports",
+         "github_url":"https://raw.githubusercontent.com/AndrewMayneProjects/Sidebar-alpha/main/test-01.json"
+      }
+   ]
+}
