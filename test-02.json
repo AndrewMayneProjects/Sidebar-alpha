@@ -14,11 +14,11 @@
    ],
    "course_links":[
       {
-         "title":"Learn about hallucination",
-         "github_url":"https://raw.githubusercontent.com/AndrewMayneProjects/Sidebar-alpha/main/test-01.json"
+         "title":"Lesson 3: Pesonalizing prompts",
+         "github_url":"https://raw.githubusercontent.com/AndrewMayneProjects/Sidebar-alpha/main/test-03.json"
       },
           {
-         "title":"How to summarize",
+         "title":"Summarizing",
          "github_url":"https://raw.githubusercontent.com/AndrewMayneProjects/Sidebar-alpha/main/test-01.json"
       }
    ]
